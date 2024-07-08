@@ -1,0 +1,36 @@
+#include <Servo.h>
+
+Servo tap_servo1;
+Servo tap_servo2;
+
+int sensor1_pin = A0;
+int sensor2_pin = 3;
+int tap_servo1_pin =5;
+int tap_servo2_pin =6;
+int val1; //value from inductive sensor
+int val2; // value from capacitive sensor
+
+void setup(){
+  pinMode(sensor1_pin,INPUT);
+  pinMode(sensor2_pin,INPUT);
+  tap_servo1.attach(tap_servo1_pin);
+  tap_servo2.attach(tap_servo2_pin);
+}
+
+void loop(){
+  val1 = analogRead(sensor1_pin);
+  val2 = digitalRead(sensor2_pin);
+  if (val1==0)
+  {tap_servo1.write(0);
+  }
+  if (val1>=250)
+  {tap_servo1.write(180);
+  
+    }
+  if(val2==0)
+   {  tap_servo2.write(0);
+    }
+  if(val2==1)
+  {tap_servo2.write(180);
+    }
+}
