@@ -1,4 +1,6 @@
 # Metal Sort Bin
+![metal-sort-bin-final-prototype1](https://github.com/user-attachments/assets/92013846-d115-45ef-a46b-df96e6710144)
+
 ## Project Documentation for Hardware Projects: Autonomous Sort Robot (ASR)
 1.	Introduction
    
@@ -113,6 +115,14 @@
 -	Validate communication between hardware components.
 -	System Tests:
 -	Complete identifying and sorting execution in a controlled environment.
+-	Different metal sort bin designs:
+  a) ![Metal Sort Bin made from Cardboard](https://github.com/user-attachments/assets/1d2a3f26-3906-45d2-b286-6db859dcc00a)
+  b) ![Metal Sort Bin stl image file](https://github.com/user-attachments/assets/06b4044d-b6fa-470a-b041-f687255351c8)
+  c) ![Metal Sort Bin from Plywood](https://github.com/user-attachments/assets/f1b88b14-de40-406d-aca8-52d6d5d9fddb)
+  d) ![Metal Sort](https://github.com/user-attachments/assets/e940bcf9-4085-42ed-9831-63c4907e5bca)
+  e) ![metal-sort-bin](https://github.com/user-attachments/assets/d58df503-c06c-445b-96c7-85ac947fa186)
+
+ 	
   
 5.3 Test Results
 -	**Test Execution Summary**:
@@ -132,7 +142,8 @@
 -	Environment Setup:
 -	Ensure the operating environment is safe.
 -	Dependencies:
--	Ensure all software libraries and dependencies are installed 
+-	Ensure all software libraries and dependencies are installed
+-	![metal-sort-bin-final-prototype](https://github.com/user-attachments/assets/c7f18dde-3b12-4ecf-a6ec-1e169a9ee9eb)
 
 6.2 Release Notes
 — **New Features**:
