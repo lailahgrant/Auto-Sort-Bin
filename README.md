@@ -74,6 +74,7 @@
 -	Chassis Design: Compact, robust chassis for stability and durability.
 -	Actuator Placement: Motors and actuators are strategically placed for optimal performance.
 -	Sensor Placement: Sensors placed to cover all necessary detection angles.
+-	Working Prototype: [Metal Sort Bin video](https://drive.google.com/file/d/1hQ5-2dQvHNXjBzRkEKywSUn661ZLmr5M/view?usp=drive_link)
   
 4.	Implementation
    
