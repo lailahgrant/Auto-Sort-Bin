@@ -36,9 +36,9 @@
 -	The robot should be able to detect, identify and sort rubbish to respective bin.
 -	Speed and direction control must be precise and adaptable.
 -	**Obstacle Detection**:
--	The robot must detect, identify and sort rubbish using sensors such as Inductive proximity sensor, ultrasonic sensor.
+-	The robot must detect, identify, and sort rubbish using sensors such as the Inductive proximity sensor, and ultrasonic sensor.
 -	**Task Execution**:
--	The robot should receive objects, detect, identify its material and move specific bin from one location to another.
+-	The robot should receive objects, detect, and identify their material, and move specific bin from one location to another.
 -	**User Interaction**:
 -	Provide a user interface (LCD screen) for displaying information about the capacity of a bin.
 -	Implement doors on the bin to allow for proper collection of rubbish when bin is full.
@@ -73,7 +73,7 @@
   
   ![metal-sort-bin](https://github.com/user-attachments/assets/d5f48d7d-5ff0-4cf4-ad24-fce51bd6d9ba)
   
--	Chassis Design: Compact, robust chassis for stability and durability.
+-	Chassis Design: Compact, robust chassis for stability and durability.	
 -	Actuator Placement: Motors and actuators are strategically placed for optimal performance.
 -	Sensor Placement: Sensors placed to cover all necessary detection angles.
 -	Working Prototype: [Metal Sort Bin video](https://drive.google.com/file/d/1hQ5-2dQvHNXjBzRkEKywSUn661ZLmr5M/view?usp=drive_link)
@@ -130,7 +130,7 @@
 -	Defect Log:
 -	Log of identified defects with status and resolution.
 -	Deviations:
--	Any deviations from expected behaviour and their impact.
+-	Any deviations from expected behavior and their impact.
   
 6.	Deployment
    
